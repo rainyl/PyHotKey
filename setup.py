@@ -8,10 +8,10 @@ PYPI_PACKAGE_NAME = 'PyHotKey'
 MAIN_PACKAGE_NAME = 'PyHotKey'
 
 # The package URL
-PACKAGE_URL = 'https://github.com/Xpp521/PyHotKey'
+PACKAGE_URL = 'https://github.com/rainyl/PyHotKey'
 
 # The runtime requirements
-INSTALL_REQUIRES = ['pynput<=1.4.5']
+INSTALL_REQUIRES = ['pynput>=1.4.5']
 
 # Additional requirements used during setup
 SETUP_REQUIRES = []
@@ -53,9 +53,9 @@ setup(
     author_email=INFO.get('AUTHOR_EMAIL'),
     url=PACKAGE_URL,
     project_urls={
-        'Documentation': 'https://github.com/Xpp521/PyHotKey/wiki',
-        'Source': 'https://github.com/Xpp521/PyHotKey',
-        'Tracker': 'https://github.com/Xpp521/PyHotKey/issues'
+        'Documentation': 'https://github.com/rainyl/PyHotKey/wiki',
+        'Source': 'https://github.com/rainyl/PyHotKey',
+        'Tracker': 'https://github.com/rainyl/PyHotKey/issues'
     },
     license='LGPLv3',
     keywords=['hotkey', 'hot', 'key'],

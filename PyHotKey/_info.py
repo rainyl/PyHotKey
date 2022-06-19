@@ -14,6 +14,6 @@
 #
 # You should have received a copy of the GNU Lesser General Public License
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
-AUTHOR = 'Xpp'
+AUTHOR = 'Xpp+rainyl'
 AUTHOR_EMAIL = 'Xpp233@foxmail.com'
-VERSION = '1.3.3'
+VERSION = '1.3.4'
